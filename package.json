@@ -1,0 +1,15 @@
+{
+	"name": "com.osyacat.ecswrapper",
+	"version": "1.0.0",
+	"displayName": "Ecs Wrapper",
+	"description": "Wrapper for ecs",
+	"unity": "2021.2",
+	"dependencies": {
+	},
+	"keywords": ["ecs","library","utility"],
+	"author": {
+		"name": "Vladimir Sazonov",
+		"email": "vova.sazonovvv@gmail.com",
+		"url": "https://ticvote.com"
+	}
+}
